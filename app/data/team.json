@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Hamza Noor",
+    "role": "Full Stack Developer",
+    "description": "Passionate full-stack engineer crafting web apps with React.js, Next.js, and powerful backends using Strapi and Firebase. Loves building scalable digital products.",
+    "image": "/logo.jpg",
+    "slug": "hamza-noor",
+    "skills": [
+      { "name": "React.js", "level": 90, "category": "Frontend", "icon": "⚛️" },
+      { "name": "Next.js", "level": 88, "category": "Frontend", "icon": "▲" },
+      { "name": "Strapi", "level": 85, "category": "Backend", "icon": "🔧" },
+      { "name": "Firebase", "level": 85, "category": "Backend", "icon": "🔥" },
+      { "name": "JavaScript", "level": 90, "category": "Frontend", "icon": "💛" },
+      { "name": "Node.js", "level": 87, "category": "Backend", "icon": "🟢" },
+      { "name": "Tailwind CSS", "level": 88, "category": "Frontend", "icon": "🎨" },
+      { "name": "Material UI", "level": 85, "category": "Frontend", "icon": "🧩" },
+      { "name": "TypeScript", "level": 85, "category": "Frontend", "icon": "🔷" },
+      { "name": "Framer Motion", "level": 85, "category": "Frontend", "icon": "✨" },
+      { "name": "Git", "level": 90, "category": "Tools", "icon": "📝" },
+      { "name": "GitHub", "level": 89, "category": "Tools", "icon": "🐙" },
+      { "name": "Axios", "level": 85, "category": "Tools", "icon": "📡" }
+    ],
+    "contact": {
+      "email": "hamzach138446@gmail.com",
+      "phone": "03249143446",
+      "location": "Lahore, Punjab, Pakistan",
+      "github": "https://github.com/",
+      "linkedin": "https://www.linkedin.com/feed/",
+      "facebook": "https://facebook.com/"
+    },
+    "projects": [
+      {
+        "title": "NY212 (clone)",
+        "slug": "ny212-clone",
+        "image": "/ny212.png",
+        "shortDescription": "High-performance, fully responsive e-commerce site inspired by NY212. Built with Next.js, Strapi, and Vercel.",
+        "description": "Developed a high-performance, fully responsive e-commerce site inspired by NY212 using Next.js (App Router) and Strapi as the headless CMS. Focused on performance and SEO by pre-rendering dynamic content at build time using generateStaticParams and generateMetadata, achieving 100/100 Lighthouse scores. Deployed on Vercel for global scalability and edge-speed delivery. This project showcases my skills in full-stack development, API integration, and performance-first architecture. Associated with COMSATS University Islamabad, Lahore Campus.",
+        "skills": [
+          { "name": "Next.js", "icon": "▲" },
+          { "name": "Strapi", "icon": "🔧" },
+          { "name": "REST API", "icon": "🔗" },
+          { "name": "Vercel", "icon": "▲" },
+          { "name": "SEO", "icon": "🔍" }
+        ],
+        "links": {
+          "live": "https://112-jet.vercel.app/",
+          "github": "https://github.com/HamzaNoor138/112"
+        },
+        "date": "Mar 2025 - May 2025",
+        "organization": "COMSATS University Islamabad, Lahore Campus"
+      },
+      {
+        "title": "EmployEase (HRMS System)",
+        "slug": "employease-hrms",
+        "images": [
+          "/employeease.jpg",
+          "/employeease1.jpg",
+          "/employeease2.jpg"
+        ],
+        "shortDescription": "Centralized HRMS system for employee outsourcing, recruitment, payroll, and performance tracking.",
+        "description": "EmployEase is a centralized HRMS web application that connects companies with skilled outsourced employees. The platform includes a resume parsing system powered by AI, a ranking algorithm for job matching, attendance and payroll management, and performance tracking. Companies can register, post jobs, manage interviews, and track hired employee progress. Employees only need to upload their CVs, and the system automatically extracts their experience and ranks them accordingly. Developed as a Final Year Project at COMSATS University Islamabad, Lahore Campus.",
+        "skills": [
+          { "name": "React.js", "icon": "⚛️" },
+          { "name": "ASP.NET", "icon": "🧩" },
+          { "name": "Microsoft SQL Server", "icon": "🗃️" },
+          { "name": "Material UI", "icon": "🧩" },
+          { "name": "JWT", "icon": "🔐" },
+          { "name": "REST API", "icon": "🔗" }
+        ],
+        "links": {
+          "live": "https://employease1.netlify.app/",
+          "github": "https://github.com/"  
+        },
+        "date": "Feb 2024 - Jul 2024",
+        "organization": "COMSATS University Islamabad, Lahore Campus"
+      }
+    ]
+  }
+]

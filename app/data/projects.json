@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Portfolio Website",
+    "slug": "portfolio-website",
+    "image": "/file.svg",
+    "shortDescription": "A modern portfolio website to showcase developer skills and projects.",
+    "description": "A fully responsive portfolio website built with Next.js, Tailwind CSS, and Framer Motion. Features animated sections, project gallery, and contact form.",
+    "skills": [
+      { "name": "Next.js", "icon": "▲" },
+      { "name": "Tailwind CSS", "icon": "🎨" },
+      { "name": "Framer Motion", "icon": "✨" }
+    ],
+    "links": {
+      "live": "https://portfolio.example.com",
+      "github": "https://github.com/example/portfolio"
+    }
+  },
+  {
+    "title": "E-commerce Platform",
+    "slug": "ecommerce-platform",
+    "image": "/globe.svg",
+    "shortDescription": "A scalable e-commerce platform with product catalog and checkout.",
+    "description": "Built a robust e-commerce platform using React, Node.js, and MongoDB. Includes user authentication, product management, and secure payments.",
+    "skills": [
+      { "name": "React.js", "icon": "⚛️" },
+      { "name": "Node.js", "icon": "🟢" },
+      { "name": "MongoDB", "icon": "🍃" }
+    ],
+    "links": {
+      "live": "https://shop.example.com",
+      "github": "https://github.com/example/ecommerce"
+    }
+  },
+  {
+    "title": "Team Collaboration App",
+    "slug": "team-collab-app",
+    "image": "/window.svg",
+    "shortDescription": "A real-time team collaboration tool for remote teams.",
+    "description": "A web app for real-time chat, file sharing, and task management. Built with Next.js, Firebase, and Material UI for a seamless user experience.",
+    "skills": [
+      { "name": "Next.js", "icon": "▲" },
+      { "name": "Firebase", "icon": "🔥" },
+      { "name": "Material UI", "icon": "🧩" }
+    ],
+    "links": {
+      "live": "https://collab.example.com",
+      "github": "https://github.com/example/collab"
+    }
+  }
+] 
